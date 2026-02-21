@@ -1,3 +1,5 @@
+//conversão de valores em Real para Dólar
+
 #include <stdio.h>
 
 int main(){
